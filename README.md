@@ -1,5 +1,7 @@
 # Repo for 2^5 Coding Competition - Cerner
-### 2_5_submission_gatherer.py
+32 Days, 32 Lines or Less, and Capture "Engineering Productivity" in code.
+
+## 2_5_submission_gatherer.py
 A `Python3` script to gather all repos related to the *2^5 Coding Competition: Sept. 14 - Oct. 16th 2020* from `GitHub` and export relevant info into a CSV file.
 
 **Example Run:**
@@ -22,4 +24,3 @@ Entry,User,Repo Name,Link,Last Updated
 8,sb067477,Cerner-2_pow_5-2020,https://github.com/sb067477/Cerner-2_pow_5-2020,2020-09-08T10:57:15Z
 ```
 ![Excel](/example.png)
-
