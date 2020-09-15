@@ -1,8 +1,8 @@
 # Repo for 2^5 Coding Competition - Cerner
 32 Days, 32 Lines or Less, and Capture "Engineering Productivity" in code.
 
-## 2_5_submission_gatherer.py
-A `Python3` script to gather all repos related to the *2^5 Coding Competition: Sept. 14 - Oct. 16th 2020* from `GitHub` and export relevant info into a CSV file.
+## 2_5_submission_gatherer.py (09/14/2020)
+A `python3` script to gather all repos related to the *2^5 Coding Competition: Sept. 14 - Oct. 16th 2020* from `GitHub` and export relevant info into a CSV file.
 
 **Example Run:**
 ```python
@@ -23,4 +23,7 @@ Entry,User,Repo Name,Link,Last Updated
 7,nrayapati,cerner_2-5_2020,https://github.com/nrayapati/cerner_2-5_2020,2020-09-13T23:52:59Z
 8,sb067477,Cerner-2_pow_5-2020,https://github.com/sb067477/Cerner-2_pow_5-2020,2020-09-08T10:57:15Z
 ```
-![Excel](/example.png)
+![Excel](/static/excel_example.png)
+
+## cerner.ws (09/15/2020)
+A [`whitespace`](https://esolangs.org/wiki/Whitespace) script that just outputs "Cerner", but also maybe it doesn't, how could you tell?
