@@ -26,4 +26,4 @@ Entry,User,Repo Name,Link,Last Updated
 ![Excel](/static/excel_example.png)
 
 ## cerner.ws (09/15/2020)
-A [`whitespace`](https://esolangs.org/wiki/Whitespace) script that just outputs "Cerner", but also maybe it doesn't, how could you tell?
+A [`whitespace`](https://esolangs.org/wiki/Whitespace) script that just outputs "Cerner", but also maybe it doesn't, how could you tell? Can try it [here](https://vii5ard.github.io/whitespace/).
